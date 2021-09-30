@@ -1,1 +1,1 @@
-module "go-wordpress"
+module "github.com/HeavenKeyn/go-wordpress"
